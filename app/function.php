@@ -1,4 +1,5 @@
 <?php
+///nama
     function login($data) {
         global $koneksi;
         $password = $data['password'];
