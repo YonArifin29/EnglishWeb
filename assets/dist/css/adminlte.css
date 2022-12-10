@@ -11508,6 +11508,9 @@ body:not(.layout-fixed).layout-navbar-fixed.text-sm .wrapper .main-sidebar .side
   position: fixed;
   right: 0;
   z-index: 1032;
+  height: 25px;
+  background-color: lightblue;
+  line-height: 25px;
 }
 
 .layout-footer-not-fixed .wrapper .main-footer {
@@ -11751,7 +11754,7 @@ body.sidebar-collapse:not(.sidebar-mini-xs):not(.sidebar-mini-md):not(.sidebar-m
 }
 
 .content-wrapper {
-  background-color: #f4f6f9;
+  background-color: red;
 }
 
 .content-wrapper > .content {

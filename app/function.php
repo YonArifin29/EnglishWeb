@@ -5,7 +5,6 @@
         $password = $data['password'];
         $username = $data['username'];
         $sql = "SELECT * FROM pengguna WHERE username = '$username'";
-        var_dump($username);
           $result = mysqli_query($koneksi,$sql);
           $row = mysqli_num_rows($result);
           if($row) { 

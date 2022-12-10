@@ -35,6 +35,7 @@
                 </div>
                 <button class='btn' name='tombol' type='submit'><strong>Sign Up</strong></button>
               </form>
+              <a href='?page=login'><strong>Back</strong></a>
           </div>
     ";
  

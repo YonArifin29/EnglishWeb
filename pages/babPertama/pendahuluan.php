@@ -12,7 +12,7 @@
     ";
     $konten = "
             <div class='row'>
-                <div class='ml-5 contain'>
+                <div class='ml-5 container'>
                     <p class='paragraf'>
                         <i>Tata Bahasa (Grammar)</i> adalah suatu ilmu yang mengajarkan tentang cara menyusun kata-kata untuk menjadi sebuah kalimat secara tepat. Atau dapat dikatakan, sebelum Anda menyusun sebuah kalimat bahasa inggris, anda harus mempelajari Grammar terlebih dahulu.
                     </p>

@@ -7,7 +7,7 @@
             <meta http-equiv='X-UA-Compatible' content='IE=edge'>
             <meta name='viewport' content='width=device-width, initial-scale=1.0'>
             <title>$judul</title>
-            <link rel='stylesheet' href='./assets/css/registrasi.css?time();'>
+            <link rel='stylesheet' href='./assets/dist/css/registrasi.css?time();'>
             <link rel='preconnect' href='https://fonts.googleapis.com'>
             <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
             <link href='https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&family=Gentium+Book+Basic:ital,wght@0,400;1,700&family=Source+Code+Pro:ital,wght@1,200&display=swap' rel='stylesheet'>

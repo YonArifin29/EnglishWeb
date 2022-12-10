@@ -23,6 +23,9 @@
           <link rel='stylesheet' href='../assets/plugins/icheck-bootstrap/icheck-bootstrap.min.css'>
           <!-- JQVMap -->
           <link rel='stylesheet' href='../assets/plugins/jqvmap/jqvmap.min.css'>
+          <!--my css -->
+          <link rel='stylesheet' href='../assets/dist/css/style1.css'>
+          <link rel='stylesheet' href='../assets/dist/css/adminlte.css'>
           <!-- Theme style -->
           <link rel='stylesheet' href='../assets/dist/css/adminlte.min.css'>
           <!-- overlayScrollbars -->
@@ -44,6 +47,7 @@
           
             <!-- Main Sidebar Container -->
                   $sidebar
+
             <!-- Content Wrapper. Contains page content -->
             <div class='content-wrapper'>
               <!-- Main content -->
@@ -51,12 +55,12 @@
                 <div class='container-fluid'>
                   <div class='content-header'>
                       <div class='container-fluid'>
-                      <div class='row mb-1'>
-                          <div class='col-sm-6 mt-3'>
-                              <h1 class='m-0 judul ml-4'>$judul</h1>
-                              <h4><b>$judul2</b></h4>
-                          </div>
-                      </div>
+                        <div class='row mb-1'>
+                            <div class='col-sm-6 mt-3'>
+                                <h1 class='m-0 judul ml-4'>$judul</h1>
+                                <h4><b>$judul2</b></h4>
+                            </div>
+                        </div>
                       </div>
                   </div>
                   $konten
@@ -66,10 +70,9 @@
                   </div>
                 </div>
               </section>
-              <!-- /.content -->
+              <!-- /.content --> 
             </div>
             <!-- /.content-wrapper -->
-            $footer
             <!-- Control Sidebar -->
             <aside class='control-sidebar control-sidebar-dark'>
               <!-- Control sidebar content goes here -->
@@ -108,12 +111,13 @@
           <script src='../assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js'></script>
           <!-- AdminLTE App -->
           <script src='../assets/dist/js/adminlte.js'></script>
-          <!-- AdminLTE for demo purposes -->
-          <script src='../assets/dist/js/demo.js'></script>
-          <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-          <script src='../assets/dist/js/pages/dashboard.js'></script>
         </body>
     </html>
     
   ";
+  
+  // <!-- AdminLTE for demo purposes -->
+  // <script src='../assets/dist/js/demo.js'></script>
+  // <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+  // <script src='../assets/dist/js/pages/dashboard.js'></script>
 ?>
