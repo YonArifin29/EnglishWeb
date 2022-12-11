@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>2. Plural Noun (Kata Benda Jamak)</b></p>
                 <p class='ml-4 paragraf'>
                     <i>Plural Noun</i> adalah kata benda yang digunakan untuk menunjukan bahwa benda tersebut lebih dari satu. Pada umumnya dibentuk dari kata benda tunggal dengan memberikan tambahan <i>e/es</i> pada kata bendanya.<br>

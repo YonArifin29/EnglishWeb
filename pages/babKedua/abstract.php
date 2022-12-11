@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>2. Abstract Noun (Kata Benda Tak Berwujud)</b></p>
                 <p class='ml-4 paragraf'>
                     <i>Abstract Noun</i> adalah kata benda yang tidak memiliki wujud, tidak dapat dilihat, diraba oleh panca indra manusia, tetapi hanya dapat dibayangkan. Pada umumnya Abstract Noun terdiri atas kata benda yang tidak dapat dihitung (Uncountable Noun).<br>

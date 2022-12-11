@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>1. Concret Noun (Kata Benda Berwujud)</b></p>
                 <p class='ml-4'>
                     <i>Concret Noun</i> adalah kata benda yang berwujud, dapat dilihat, diraba, dipegang, dirasakan oleh panca indra kita.<br>

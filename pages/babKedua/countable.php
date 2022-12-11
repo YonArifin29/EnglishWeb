@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>1. Countable Noun (Kata Benda Yang Dapat Dihitung)</b></p>
                 <p class='ml-4 paragraf'>
                     <i>Countable Noun</i> adalah kata benda yang dapat dihitung dengan angka. Countable noun meliputi kata yang tergabung dalam <i>common noun (kata benda unum)</i> dan <i>collective noun (kata benda kelompok).</i><br>

@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>2. Uncountable Noun (Kata Benda Yang Tak Dapat Dihitung)</b></p>
                 <p class='ml-4 paragraf'>
                     <i>Uncountable Noun</i> adalah kata benda yang tidak dapat dihitung dengan angka. Yang termasuk uncountable noun adalah <i>material noun (kata benda material)</i> dan <i>abstract noun (kata benda tak berwujud).</i><br>

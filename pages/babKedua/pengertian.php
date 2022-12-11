@@ -17,7 +17,7 @@
   ";
   $konten = "
     <div class='row'>
-        <div class='ml-5 contain'>
+        <div class='ml-5 container'>
             <p class='paragraf'>
                 <i>Noun (Kata Benda)</i> adalah kata yang digunakan untuk menunjukan nama orang, tempat, hewan, atau nama suatu benda atau hal-hal yang dibendakan. Atau dapat dikatakan bahwa setiap perkataan yang menunjukan orang, tempat, hewan, tumbuhan, benda atau suatu yang dibendakan disebut Kata Benda (Noun). 
             </p>

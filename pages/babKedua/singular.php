@@ -17,7 +17,7 @@
     ";
     $konten = "
         <div class='row'>
-            <div class='contain'>
+            <div class='container'>
                 <p class='ml-2'><b>1. Singular Noun (Kata Benda Tunggal)</b></p>
                 <p class='ml-4 paragraf'>
                     <i>Singular Noun</i> adalah kata benda yang menunjukan bahwa benda tersebut tunggal atau hanya satu. Pada umumnya singular noun selalu diawali oleh article (kata sandang) <i>a</i> atau <i>an</i>, khususnya untuk benda yang dapat dihitung dan belum diketahui secara pasti. 
